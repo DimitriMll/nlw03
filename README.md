@@ -1,11 +1,20 @@
-# nlw03
+# 🌐 NLW#3
 
-Site produzido durante a Next Level Week #3 da RocketSeat
+## 💻 Site produzido durante a *Next Level Week #3* da *RocketSeat*
 
-# Instruções
+## 🚀 Tecnologias utilizadas
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [handlebars](https://handlebarsjs.com/)
 
-- Instalar nodemon
-- npm start
+## ***</>*** Instruções
+1. Instale o *npm* no seu computador
+1. Instale o *NodeJs* na versão >= 12.0
+1. Clone este repositório `git clone https://github.com/DimitriMll/nlw03.git`
+1. Acesse o diretório e dê o comando `npm start`
+1. Acesse em seu navegador a seguinte url `http://localhost:5500`
+
 
 ![image1](https://github.com/DimitriMll/nlw03/blob/master/assets/happy1.PNG)
 
