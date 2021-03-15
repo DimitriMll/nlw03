@@ -1,5 +1,7 @@
 # 🌐 NLW#3
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DimitriMll/alura-oracle-one/blob/main/LICENSE) 
+
 ## 💻 Site produzido durante a *Next Level Week #3* da *RocketSeat*
 
 ## 🚀 Tecnologias utilizadas
